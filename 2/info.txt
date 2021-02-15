@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Now-Light
+font link: https://hanken.co/product/now/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: unlimicon
+icon designer link: /unlimicon
+        
+
+fontColor: {"gradient-0":"#02E528","gradient-1":"#0261E5"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#02E528","gradient-1":"#0261E5"}
+
+      
